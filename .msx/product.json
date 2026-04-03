@@ -1,0 +1,36 @@
+{
+  "id": "7ceeb72b-0d59-46eb-b42f-1ade4cf0c523",
+  "name": "Developer-Centric API Client with Git & Secrets Integration",
+  "slug": "developer-centric-api-client-w",
+  "category": "devtools",
+  "score": 92,
+  "description": "Developers are migrating away from proprietary API clients due to rising costs and limited version control capabilities. They urgently need open-source, local-first alternatives that offer seamless integration with Git for versioning API collections and environments, alongside robust and secure management of secrets from local environments to cloud secret managers.",
+  "pain_points": [
+    "Rising costs and vendor lock-in with proprietary API clients",
+    "Limited or no Git integration for API collection versioning",
+    "Inadequate and insecure secrets management across cloud environments",
+    "Lack of local-first data storage for API collections",
+    "Disruptions and forced migrations due to changes in proprietary tool policies"
+  ],
+  "market_size": "$1.5B",
+  "tech_stack": [
+    "ARM-based System-on-Chip (e.g., custom designed or high-end Raspberry Pi CM4 variant)",
+    "Embedded Linux Distribution (e.g., Yocto or highly customized Debian)",
+    "Trusted Platform Module (TPM 2.0) or dedicated Hardware Security Module (HSM) chip",
+    "Open-source Web UI framework (e.g., React, Vue.js for local web interface)",
+    "Integrated Git client and local database (e.g., SQLite for metadata)"
+  ],
+  "revenue_model": "Subscription SaaS",
+  "sources": [
+    {
+      "name": "reddit",
+      "trend": "610 upvotes",
+      "source": "reddit",
+      "mentions": 0
+    }
+  ],
+  "preview_url": "https://mothershipx.github.io/msx-developer-centric-api-client-w/",
+  "repo_url": "https://github.com/mothershipx/msx-developer-centric-api-client-w",
+  "created_at": "2026-04-03T07:05:40.488Z",
+  "pipeline_version": "1.0.0"
+}
