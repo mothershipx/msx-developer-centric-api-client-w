@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: Developer-Centric API Client with Git & Secrets Integration
+slug: developer-centric-api-client-w
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: developer-centric-api-client-w.msx.dev
